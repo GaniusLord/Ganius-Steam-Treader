@@ -6,6 +6,7 @@
 If You cant use this bot : massage me in discord https://discord.com/invite/GaniusLord
 
 Installation Guide
+
 Important: This project is split into two parts. You must download both files to run the bot correctly.
 
 Download both Part 1 and Part 2 files.
