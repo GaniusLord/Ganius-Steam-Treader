@@ -3,7 +3,7 @@
 *****coming soon*****
 
 “Available languages: English, Swedish, Persian, Hindi, Chinese, Arabic, German”
-
+If You cant use this bot : massage me in discord https://discord.com/invite/GaniusLord
 
  فارسی
 معرفی ربات:
