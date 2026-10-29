@@ -3,6 +3,7 @@
 ***☕☕☕ Buy Me Coffee : https://reymit.ir/ganiuslord ☕☕☕***
 
 “Available languages: English, Swedish, Persian, Hindi, Chinese, Arabic, German”
+
 If You cant use this bot : massage me in discord https://discord.com/invite/GaniusLord
 
 Installation Guide
