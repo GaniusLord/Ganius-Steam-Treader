@@ -18,6 +18,10 @@
 
 ۴. در نهایت ربات لینک ۱۰ آیتم برتر از نظر سودآوری را برای شما ارسال می‌کند تا بتوانید آن‌ها را خریداری کنید
 
+پیش‌نیاز:
+
+برای کار کردن ربات، به ابزاری به نام Ollama نیاز دارید و باید مدل qwen:4b روی آن دانلود شده باشد.
+
 
 “A smart trading bot designed for the Steam gaming platform. It searches the Steam Market for your desired item, finds the best and cheapest price, and gives you a direct link to buy it.”
 
@@ -30,6 +34,10 @@
 **3. The bot will ask you how many pages of the market to search (the maximum number of search pages is 5, and it will display the top 10 items for you).**
 
 4.Now the bot will send you the links to the top 10 most profitable Steam items so you can purchase them.
+
+Prerequisite:
+
+To run the bot, you need a tool called Ollama, and the qwen:4b model must be downloaded.
 
 
  عربی
@@ -45,7 +53,11 @@
 
 ٣. سيطلب منك الروبوت تحديد عدد صفحات السوق التي تريد البحث فيها (الحد الأقصى لصفحات البحث هو 5، وسيعرض لك أفضل 10 عناصر).
 
-٤. أخيراً، سيرسل لك الروبوت روابط لأفضل 10 عناصر ربحية في Steam لكي تتمكن من شرائها.
+٤. أخيراً، سيرسل لك الروبوت روابط لأفضل 10 عناصر ربحية فيSteam لكي تتمكن من شرائها.
+
+المتطلبات الأساسية:
+
+لكي يعمل الروبوت، تحتاج إلى أداة تسمى Ollama ويجب تنزيل إصدار qwen:4b.
 
 (中文)
 项目简介：
@@ -59,6 +71,10 @@
 机器人会询问您需要搜索多少页市场（最多搜索 5 页，并为您展示前 10 个热门物品）。
 最后，机器人将向您发送利润最高的前 10 个 Steam 物品的链接，以便您进行购买。
 
+前提条件：
+
+要运行此机器人，您需要一个名为 Ollama 的工具，并且必须下载 qwen:4b 模型。
+
 (Svenska)
 Om boten:
 
@@ -70,6 +86,10 @@ Vid start kommer boten att be dig välja mellan CS, Dota och Steam Market (Steam
 Därefter frågar boten vilken kategori av föremål du letar efter baserat på namn.
 Boten frågar hur många sidor av marknaden som ska sökas igenom (maximalt antal söksidor är 5, och den visar de 10 bästa föremålen för dig).
 Slutligen skickar boten länkarna till de 10 mest lönsamma Steam-föremålen så att du kan köpa dem.
+
+Förutsättning:
+
+För att boten ska fungera behöver du ett verktyg som heter Ollama och qwen:4b-versionen måste laddas ner.
 
 (Deutsch GERMANY)
 Über den Bot:
@@ -83,6 +103,10 @@ Anschließend fragt der Bot, nach welcher Artikelkategorie Sie anhand des Namens
 Der Bot fragt, wie viele Seiten des Marktes durchsucht werden sollen (die maximale Anzahl an Suchseiten beträgt 5, und er zeigt Ihnen die 10 besten Artikel an).
 Schließlich sendet Ihnen der Bot die Links zu den 10 profitabelsten Steam-Artikeln, damit Sie diese kaufen können.
 
+Voraussetzung:
+
+Damit der Bot funktioniert, benötigen Sie ein Tool namens Ollama und die Version qwen:4b muss heruntergeladen sein.
+
 (हिन्दी)
 बॉوت का परिचय:
 
@@ -94,3 +118,7 @@ Steam गेमिंग प्लेटफॉर्म के लिए डि�
 इसके बाद, बॉट आपसे पूछेगा कि आप नाम के आधार पर किस श्रेणी की वस्तु की तलाश कर रहे हैं।
 बॉट आपसे पूछेगा कि मार्केट के कितने पेजों की खोज करनी है (खोज के पेजों की अधिकतम संख्या 5 है, और यह आपको शीर्ष 10 वस्तुएं दिखाएगा)।
 अंत में बॉट आपको सबसे अधिक लाभदायक Steam वस्तुओं के लिंक भेजेगा ताकि आप उन्हें खरीद सकें।
+
+पूर्वापेक्षा (Prerequisite):
+
+बॉट को काम करने के लिए आपको Ollama नाम के एक टूल की आवश्यकता है और qwen:4b संस्करण डाउनलोड होना चाहिए।
