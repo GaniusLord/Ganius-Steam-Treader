@@ -1,5 +1,7 @@
 # Ganius-Steam-Treader
 
+***Its Beta Version***
+
 ***☕☕☕ Buy Me Coffee : https://reymit.ir/ganiuslord ☕☕☕***
 
 “Available languages: English, Swedish, Persian, Hindi, Chinese, Arabic, German”
